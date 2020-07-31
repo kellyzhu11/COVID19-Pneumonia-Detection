@@ -1,0 +1,54 @@
+0: Bilateral and peripheral alveolar consolidations, more prominent in the left lung.
+https://radiopaedia.org/cases/covid-19-pneumonia-28
+
+1-2: OpacityInTheRightLowerLobe
+https://radiopaedia.org/cases/covid-19-pneumonia-21
+
+3: Extensive bilateral airspace opacification in both lungs, more pronounced on the right and with relative sparing of the left upper lobe.  The airspace opacification has a peripheral distribution.
+https://radiopaedia.org/cases/covid-19-pneumonia-progression-and-regression
+
+4: Progressive right upper and left lower mixed interstitial / airspace opacifications.
+https://radiopaedia.org/cases/covid-19-pneumonia-24
+
+?5: Mutifocal consolidation in right mid zone and left mid/lower zones. No pleural abnormality.
+https://radiopaedia.org/cases/covid-19-pneumonia-24
+
+?6: Multiple faint alveolar opacities are identified, predominantly peripheral with greater involvement of the upper lobes. 
+https://radiopaedia.org/cases/covid-19-infection-exclusive-gastrointestinal-symptoms
+
+7: Chest radiograph on admission demonstrates bilateral, almost symmetrical areas of peripheral consolidation with perihilar infiltrates and an indistinct left heart border. In an endemic area, appearances are highly suggestive of COVID-19. 
+https://radiopaedia.org/cases/covid-19-pneumonia-42
+
+!8: The previously seen patchy opacities appear as areas of bilateral peripheral consolidations with air bronchograms. Consolidation above the horizontal fissure suggests right upper lobe pneumonia. Obliteration of the left heart border suggests lower lobe pneumonia.
+https://radiopaedia.org/cases/covid-19-pneumonia-49
+
+!9: Patchy areas of air space opacification bilaterally with a lower zone predominance.
+https://radiopaedia.org/cases/covid-19-pneumonia-43
+
+10: Radiological progression with widespread bilateral opacification across all zones. No pleural effusions. 
+https://radiopaedia.org/cases/covid-19-pneumonia-43
+
+11: Right-sided intercostal drain with bilateral small pneumothorax and pneumomediastinum with diffuse air space in both lungs typical for COVID.
+https://radiopaedia.org/cases/post-intubation-pneumomediastinum-and-pneumothorax-background-covid-19-pneumonia
+
+12: Interval increase in size of left pneumothorax with persistent right pneumothorax and pneumomediastinum with diffuse air space in both lungs. No pleural effusion.
+https://radiopaedia.org/cases/post-intubation-pneumomediastinum-and-pneumothorax-background-covid-19-pneumonia
+
+!13: There is mild left peri-hilar and upper lobe interstitial opacity consistent with developing consolidation. 
+https://radiopaedia.org/cases/covid-19-pneumonia-58
+
+?14: There is established left upper lobe and now progressive patchy consolidation in left lower, right upper and middle lobes.
+https://radiopaedia.org/cases/covid-19-pneumonia-58
+
+!15: There is now widespread interstitial and alveolar opacity diffusely spread through both lung fields.
+https://radiopaedia.org/cases/covid-19-pneumonia-58
+
+!16: Bilateral air space patchy consolidations, mainly distributed in the right lung and left lower lung zone.
+https://radiopaedia.org/cases/covid-19-pneumonia-80
+
+!17: There is peripheral patchy air space opacification seen in both lung lower zones with diffuse ground-glass haze bilaterally.
+https://radiopaedia.org/cases/covid-19-pneumonia-101
+
+18: Minor bilateral mid zone airspace opacification in a peripheral distribution.
+https://radiopaedia.org/cases/covid-19-pneumonia-serial-radiographs-1
+
