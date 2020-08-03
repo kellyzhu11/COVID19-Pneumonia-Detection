@@ -9,6 +9,18 @@ First, two classifiers are built based on ResNet-152:
 
 Second, Grad-CAM method is applied to evaluate the four-class classifier.
 
+## Usage
+### Clone the repositories
+ 
+ `git clone https://github.com/kellyzhu11/COVID19-Pneumonia-Detection.git`
+ 
+### Generate dataset
+run data.ipynb
+### Train model
+run train.ipynb
+### Evaluate model
+run evaluate.ipynb
+
 ## Results
 ### Model Performance
 #### Binary Classifier 
@@ -45,16 +57,3 @@ Case 17: Radiologist’s comment: There is peripheral patchy air space opacifica
 <p align="center">
   <img src="https://raw.githubusercontent.com/kellyzhu11/COVID19-Pneumonia-Detection/master/pics/case17.png" width=500/>
 </p>
-
-
-## Usage
-### Clone the repositories
- 
- `git clone https://github.com/kellyzhu11/COVID19-Pneumonia-Detection.git`
- 
-### Generate dataset
-run data.ipynb
-### Train model
-run train.ipynb
-### Evaluate model
-run evaluate.ipynb
