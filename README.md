@@ -9,6 +9,9 @@ First, two classifiers are built based on ResNet-152:
 
 Second, Grad-CAM method is applied to evaluate the four-class classifier.
 
+## Dataset
+To generate the dataset, we combine and modify two different datasets that are publicly available: COVID Chest X-Ray Dataset[1] and Labeled Optical Coherence Tomography and Chest X-Ray Images[2].
+
 ## Usage
 ### Clone the repositories
  
@@ -59,3 +62,9 @@ Case 17: Radiologist’s comment: There is peripheral patchy air space opacifica
 <p align="center">
   <img src="https://raw.githubusercontent.com/kellyzhu11/COVID19-Pneumonia-Detection/master/pics/case17.png" width=500/>
 </p>
+
+## References
+[1] Joseph Paul Cohen, Paul Morrison, and Lan Dao. “COVID-19 image data collection.” arXiv preprint arXiv:2003.11597, 2020.
+
+[2] Daniel Kermany, Kang Zhang, and Michael Goldbaum. “Labeled optical coherence tomography (oct) and chest X-ray images for classification.” Mendeley data, 2, 2018.
+
