@@ -12,7 +12,9 @@ Second, Grad-CAM method is applied to evaluate the four-class classifier.
 ## Usage
 ### Clone the repositories
  
- `git clone https://github.com/kellyzhu11/COVID19-Pneumonia-Detection.git`
+ ```bash
+ $ git clone https://github.com/kellyzhu11/COVID19-Pneumonia-Detection.git
+ ```
  
 ### Generate dataset
 run data.ipynb
